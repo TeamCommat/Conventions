@@ -14,24 +14,24 @@
 
 ### Commit Type
 
-* **FEAT**
+* **🔥 FEAT**
   * New features added
-* **FIX**
+* **🛠️ FIX**
   * Fixture on bugs
-* **DOCS**
+* **📖 DOCS**
   * Documentation update
-* **STYLE**
+* **🎨 STYLE**
   * Code formatting
   * Adding missing symbols
   * No actual fixtures on codes
-* **REFACTOR**
+* **⚙️ REFACTOR**
   * Refactoring on codes
-* **TEST**
+* **🧪 TEST**
   * Adding unit test codes
-* **CHORE**
+* **📦 CHORE**
   * Fixture on DevOps codes (builds, package managers, testings)
 
-### Subject
+### 🎩 Subject
 
 * Do not write **special characters** for puctuation including periods.
 * Do not use **past tenses** when using verbs.
@@ -44,14 +44,14 @@
 * Write first letter in **capital letter**.
 * **Do not** write too long, in general, not over **50 letters**.
 
-### Body
+### 🦾 Body
 
 * Write as **detailed as possible**, do not worry that commit messages are too long.
 * Write **72 letters** per line at most, if you write more than 72 letters, **go on to the next line**.
 * Write in focus on **'What you did'**, and **'Why you did it'**.
 * **Do not** write to much on **'How you did'**. However, feel free to write a bit about the methodologies.
 
-### Footer
+### 🦶 Footer
 
 * Writing footers are optional. You do not have to write footers when the commit situation is not applicable.
 * Write issue tracker ID on footers. Comm@ team uses GitHub Issue pages on each repositories.
