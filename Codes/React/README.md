@@ -246,7 +246,7 @@
       phoneNumber={12345678}
     />
     ```
-21. Do not use `isMounted`, since it is an anti-patter for ES6.
+21. Do not use `isMounted`, since it is an anti-pattern for ES6.
 
 ## Testing
 
