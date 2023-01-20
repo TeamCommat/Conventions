@@ -781,7 +781,7 @@
 * Write all file names in lower case, including assets that are not source files. Ignore proper grammar.
 
   ```
-  // BAD
+  D// BAD
   London.png
   HELLOWORLD.pdf
   APP.js
